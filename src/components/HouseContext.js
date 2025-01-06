@@ -70,7 +70,7 @@ const HouseContextProvider = ({ children }) => {
         houses,
         loading,
         handleClick,
-        loading,
+        
       }}
     >
       {children}
